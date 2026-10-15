@@ -1,4 +1,4 @@
-### 👋 Oi, eu sou a Daniela Provenzano!
+9### 👋 Oi, eu sou a Daniela Provenzano!
 
 💻 Apaixonada por tecnologia | aprendendo, criando e construindo projetos 🚀
 
@@ -16,8 +16,6 @@
 - Contribuir em projetos open-source
 - Construir meu portfólio
 
-📫 **Onde me encontrar:**
-- ✉️ dannyepires@gmail.com
 - 📍 Ilhabela, Brasil
 
 ✨ *"Aprendendo, criando e evoluindo um commit por vez."*
