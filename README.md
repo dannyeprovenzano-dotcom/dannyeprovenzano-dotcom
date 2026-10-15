@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Oi, eu sou a Daniela Provenzano!
 
-<!--
-**dannyeprovenzano-dotcom/dannyeprovenzano-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonada por tecnologia | aprendendo, criando e construindo projetos 🚀
 
-Here are some ideas to get you started:
+🌀 Sempre em evolução⚡♾️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌱 **Atualmente estou aprendendo:**
+- Git & GitHub
+- Lógica de programação
+- Front-end (HTML, CSS, JavaScript)
+
+🎯 **Meus próximos passos:**
+- Criar meus primeiros projetos
+- Contribuir em projetos open-source
+- Construir meu portfólio
+
+📫 **Onde me encontrar:**
+- ✉️ dannyepires@gmail.com
+- 📍 Ilhabela, Brasil
+
+✨ *"Aprendendo, criando e evoluindo um commit por vez."*
